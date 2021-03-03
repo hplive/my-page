@@ -1,0 +1,48 @@
+{
+    "title": "Pré - Software Engineer",
+    "summary": "I just love Computer Software development, web development in special. I look always for different and efficient solution, daily, to solve my clients problems. Always growing as a co worker and as a person, looking always to give my best to the company",
+    "studies": [
+      {
+        "institute": "Instituto Superior de Engenharia do Porto",
+        "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/xhgc8gejyrkc9soty6fm",
+        "url": "https://isep.ipp.pt/",
+        "title": "Licenciatura em Engenharia Informática",
+        "durationInYears": "3",
+        "graduationYear": 2021
+      }
+    ],
+    "certifications": [
+      {
+        "logo": "https://www.certmetrics.com/api/ob/image/amazon/c/1",
+        "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+        "title": "AWS Certified Solutions Architect - Associate",
+        "issuer": "Amazon Web Services",
+        "issueDate": "2018-09-01",
+        "expiryDate": "2020-09-01",
+        "verificationLink": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-09-13&ci=AWS00487431"
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "Sonae",
+        "logo": "https://www.sonae.pt/fotos/gca/sonae_basic_380_1235064272571665b7a4aed.png",
+        "url": "https://sonae.pt/",
+        "roles": [
+          {
+            "title": "Software developer",
+            "description": "Development of Application (webservices, webportal) that help simplify day-to-day work of company employees, using C#, .NET core, javascript, python, SQL.",
+            "startDate": "2018-05-03",
+            "currentJob": true,
+            "location": "Maia, Portugal"
+          },
+          {
+            "title": "Aprovisionador",
+            "description": "Stocket Manager in a retailer store",
+            "startDate": "2014-01-02",
+            "endDate": "2018-05-02",
+            "location": "Senhora da Hora , Portugal"
+          }
+        ]
+      }     
+    ]
+  }
